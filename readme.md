@@ -4,7 +4,7 @@
 
 ### Get the data
 
-For this lab, we continue using the `marketing_customer_analysis.csv` file that has been used in the previous labs.
+For this lab, we continue using the `marketing_customer_analysis.csv` file that has been used in the previous labs.  There is **NO NEED** to fork and clone this repository.
 
 ### Dealing with the data
 
