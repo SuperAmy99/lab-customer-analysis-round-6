@@ -19,7 +19,8 @@ Already done.
 (_Further processing..._)
 
 - X-y split. (_done_) Round 5
-- Scaling (numerical). (_done_) Round 5\
+- Scaling (numerical). (_done_) Round 5
+  <br>
 
 - **Round 6**
 - One Hot/Label Encoding (categorical).
